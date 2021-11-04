@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+    font-family: 'Nunito', sans-serif;
+}
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#upper_banner{
+    width: 1000px;
+    height: 136px;
+    border: 1px solid black;
+    background-image: url(images.jpg);
+    position: relative;
+    background-repeat:round;
+    
+}
+#navbarNav{
+    background-color: #575757;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border: 1px solid #2f2f2f;
+    margin-bottom: 50px;
+}
+#left_sidebar{
+    
+}
+#content{
+    
+}
+#footer{
+    
+}
+.button{
+    
+}
+#logo{
+}
+.option
+{
+    float: left;
+    color: #d8d8d8;
+    margin-right: 15px;
+    min-width: 50px;
+    height: 25px;
+    font-size: 20px;
+    padding: 10px;
+    transition: background-color .15s,border-radius .30s ease-in-out;
+}
+.option:hover{
+    background-color: #464646;
+    cursor: pointer;
+    border-radius: 10px;
+}
